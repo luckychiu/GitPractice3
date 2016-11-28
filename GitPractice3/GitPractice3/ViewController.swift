@@ -22,5 +22,14 @@ class ViewController: UIViewController {
 
     // Test GitHub function
     // Tiger
+    
+    func testFunction1() {
+        print("test 1")
+    }
+    
+    func testFunction2() {
+        print("test 2")
+    }
 }
+
 
